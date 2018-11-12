@@ -1,7 +1,7 @@
 {
-  "name": "bs4startup",
+  "name": "Mizuxe",
   "version": "1.0.0",
-  "description": "Bootstrap4WorkFlow",
+  "description": "Mizuxe",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
