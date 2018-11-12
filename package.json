@@ -1,0 +1,20 @@
+{
+  "name": "bs4startup",
+  "version": "1.0.0",
+  "description": "Bootstrap4WorkFlow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Kaushik",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
